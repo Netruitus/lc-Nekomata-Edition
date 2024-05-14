@@ -1,0 +1,53 @@
+name: Publish mod in Thunderstore
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Extract manifest
+        run: |
+          echo "MODPACH_NAME=$(jq -r '.name' manifest.json)" >> "$GITHUB_ENV"
+          echo "MODPACK_VERSION=$(jq -r '.version_number' manifest.json)" >> "$GITHUB_ENV"
+          echo "MODPACK_DESCRIPTION=$(jq -r '.description' manifest.json)" >> "$GITHUB_ENV"
+
+      - name: Update modpack version
+        run: |
+          sed -i 's/__VERSION__/${{ env.MODPACK_VERSION }}/g' config/IntroTweaks.cfg
+
+      - name: Zip files
+        run: |
+          zip -r modpack.zip * -x .github\*
+
+      - name: Upload to Thunderstore
+        uses: GreenTF/upload-thunderstore-package@v4.2
+        with:
+          namespace: Netruitus
+          description: ${{ env.MODPACK_DESCRIPTION }} 
+          token: ${{ secrets.THUNDERSTORE_TOKEN }}
+          name: ${{ env.MODPACH_NAME }}
+          version: ${{ env.MODPACK_VERSION }}
+          community: lethal-company
+          repo: https://github.com/${{ env.GITHUB_REPOSITORY }}
+          file: modpack.zip
+          categories: |
+            modpacks
+      
+      - name: Create tag
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.git.createRef({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              ref: 'refs/tags/${{ env.MODPACK_VERSION }}',
+              sha: context.sha
+            })
