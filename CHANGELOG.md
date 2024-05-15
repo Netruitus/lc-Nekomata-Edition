@@ -1,3 +1,6 @@
+## 1.0.1
+- Updated Purrformancer
+
 ## 1.0.0
 
 Here are the changes compared to LC_K8:
