@@ -2,6 +2,7 @@
 - Updated:
     - Purrformancer
     - ReservedItemSlotCore
+    - LETHALRESONANCE
 
 ## 1.0.1
 - Updated Purrformancer
