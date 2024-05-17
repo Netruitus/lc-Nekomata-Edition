@@ -1,5 +1,7 @@
 ## 1.0.2
-- Updated Purrformancer
+- Updated:
+    - Purrformancer
+    - ReservedItemSlotCore
 
 ## 1.0.1
 - Updated Purrformancer
