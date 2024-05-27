@@ -1,5 +1,6 @@
 ## 1.0.4
 - Updated TooManyEmotes
+- Important notice in README
 
 ## 1.0.3
 - Updated Purrformancer
