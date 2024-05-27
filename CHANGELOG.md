@@ -1,3 +1,6 @@
+## 1.0.4
+- Updated TooManyEmotes
+
 ## 1.0.3
 - Updated Purrformancer
 - Disabled fixes for masked enemies from Purrformancer due to using Mirage
