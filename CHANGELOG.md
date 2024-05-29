@@ -4,7 +4,8 @@
     - ReservedItemSlotCore
     - LethalLib
 - Removed:
-    - HDLethalCompany - Due to optimization issues
+    - HDLethalCompany - Due to impact on performance
+    - ShipWindows - Due to optimization issues
 
 ## 1.0.4
 - Updated TooManyEmotes
