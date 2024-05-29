@@ -2,6 +2,7 @@
 - Updated:
     - Purrformancer
     - ReservedItemSlotCore
+    - LethalLib
 
 ## 1.0.4
 - Updated TooManyEmotes
