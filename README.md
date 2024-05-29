@@ -16,7 +16,6 @@ Mods like `LCMaxSoundsFix` and `EnemySoundFixes` have a hard dependency from one
     - More coworkers! And they can be late joiners too
     - See your feet and what's below
     - See total value of all scrap in your ship
-    - More graphic settings
     - No more limits on how much you can sell at once
     - Hear active Walkies
     - Better saving (and more items to save)
@@ -45,7 +44,6 @@ Mods like `LCMaxSoundsFix` and `EnemySoundFixes` have a hard dependency from one
     - More emotes!
     - Hear screams of your friends a bit longer
     - BONK!
-    - You can play LC on Windows, but why the ship was lacking them?
     - More scrap, more items and some evil roomba
     - If you friend is not moving, you should move them
     - CATS!

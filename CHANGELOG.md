@@ -1,3 +1,12 @@
+## 1.1.0
+- Updated:
+    - Purrformancer
+    - ReservedItemSlotCore
+    - LethalLib
+- Removed:
+    - HDLethalCompany - Due to impact on performance
+    - ShipWindows - Due to optimization issues
+
 ## 1.0.4
 - Updated TooManyEmotes
 - Important notice in README
