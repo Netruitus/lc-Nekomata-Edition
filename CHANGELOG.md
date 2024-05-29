@@ -1,6 +1,7 @@
 ## 1.1.0
 - Updated:
     - Purrformancer
+    - ReservedItemSlotCore
 
 ## 1.0.4
 - Updated TooManyEmotes
