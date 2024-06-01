@@ -1,5 +1,7 @@
 ## 1.1.1
 - Updated LETHALRESONANCE
+- Removed old config files
+- Removed important notice (not valid anymore)
 
 ## 1.1.0
 - Updated:
