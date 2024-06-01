@@ -6,10 +6,6 @@ This modpack is a thoroughly curated collection of popular mods (over 70!), bund
 
 Built on top of [Purrformancer](https://thunderstore.io/c/lethal-company/p/Netruitus/Purrformancer/), so contains a bunch of performance and incovinience fixes.
 
-## IMPORTANT NOTE
-
-Mods like `LCMaxSoundsFix` and `EnemySoundFixes` have a hard dependency from one of used mods. From the side of the modpack, I keep it updated, yet the dependencies are forcing modpack to use the older version. I **strongly** advise to update these two mods.
-
 ## Features
 
 - QoL changes
