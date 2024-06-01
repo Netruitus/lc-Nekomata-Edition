@@ -1,3 +1,6 @@
+## 1.1.1
+- Updated LETHALRESONANCE
+
 ## 1.1.0
 - Updated:
     - Purrformancer
