@@ -1,3 +1,7 @@
+## 1.1.2
+- Updated:
+    - Purrformancer
+
 ## 1.1.1
 - Updated LETHALRESONANCE
 - Removed old config files

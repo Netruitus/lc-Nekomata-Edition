@@ -1,10 +1,10 @@
 {
     "name": "Nekomata_Edition",
-    "version_number": "1.1.1",
+    "version_number": "1.1.2",
     "website_url": "https://github.com/Netruitus/lc-Nekomata-Edition",
     "description": "A compilation of popular mods bundled together to introduce Quality of Life improvements, balance gameplay, and introduce fresh challenges.",
     "dependencies": [
-        "Netruitus-Purrformancer-1.1.1",
+        "Netruitus-Purrformancer-1.1.2",
 
         "5Bit-VoiceHUD-1.0.4",
 
