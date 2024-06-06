@@ -1,3 +1,8 @@
+## 1.1.2
+- Updated:
+    - Purrformancer
+    - TooManyEmotes
+
 ## 1.1.1
 - Updated LETHALRESONANCE
 - Removed old config files
