@@ -1,3 +1,9 @@
+## 1.1.3
+- Updated:
+    - Purrformancer
+    - LethalCompany_InputUtils
+    - AccurateStaminaDisplay
+
 ## 1.1.2
 - Updated:
     - Purrformancer
