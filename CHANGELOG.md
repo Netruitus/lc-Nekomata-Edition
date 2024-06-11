@@ -2,6 +2,7 @@
 - Updated:
     - Purrformancer
     - LethalCompany_InputUtils
+    - AccurateStaminaDisplay
 
 ## 1.1.2
 - Updated:
