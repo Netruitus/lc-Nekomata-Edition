@@ -1,6 +1,7 @@
 ## 1.1.3
 - Updated:
     - Purrformancer
+    - LethalCompany_InputUtils
 
 ## 1.1.2
 - Updated:
