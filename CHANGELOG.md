@@ -2,6 +2,7 @@
 - Updated:
     - Purrformancer
     - loaforcsSoundAPI
+    - Mirage
 
 ## 1.1.3
 - Updated:
