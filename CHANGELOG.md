@@ -1,3 +1,11 @@
+## 1.1.4
+- Updated:
+    - Purrformancer
+    - loaforcsSoundAPI
+    - Mirage
+    - BarchLib
+- Boost number of masked enemies (due to changes in the config file)
+
 ## 1.1.3
 - Updated:
     - Purrformancer
