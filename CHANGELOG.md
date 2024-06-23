@@ -1,3 +1,10 @@
+## 1.1.5
+- Updated:
+    - Purrformancer
+    - loaforcsSoundAPI
+    - AccurateStaminaDisplay
+    - Mirage
+
 ## 1.1.4
 - Updated:
     - Purrformancer
