@@ -2,6 +2,7 @@
 - Updated:
     - Purrformancer
     - loaforcsSoundAPI
+    - AccurateStaminaDisplay
 
 ## 1.1.4
 - Updated:
