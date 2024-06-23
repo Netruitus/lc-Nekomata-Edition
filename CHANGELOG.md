@@ -1,3 +1,7 @@
+## 1.1.5
+- Updated:
+    - Purrformancer
+
 ## 1.1.4
 - Updated:
     - Purrformancer
