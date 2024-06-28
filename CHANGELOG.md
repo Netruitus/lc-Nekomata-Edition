@@ -1,3 +1,7 @@
+## 1.1.6
+- Updated:
+    - loaforcsSoundAPI
+
 ## 1.1.5
 - Updated:
     - Purrformancer
