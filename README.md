@@ -50,7 +50,6 @@ Built on top of [Purrformancer](https://thunderstore.io/c/lethal-company/p/Netru
     - Some monsters can speak your friends' voices
     - There are some very convincing player mimicks around...
     - Some presents can be surprisingly deadly
-- And Discord Rich Presence support
 
 ## Updates
 
