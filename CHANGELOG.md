@@ -1,5 +1,6 @@
-## 1.2.0
+## 2024.8.11
 - Fully compatible with v56
+- Change the versioning to date format
 - Updated mods:
     - Purrformancer
     - Touchscreen
