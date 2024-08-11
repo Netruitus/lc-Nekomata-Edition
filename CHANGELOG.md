@@ -2,6 +2,7 @@
 - Fully compatible with v56
 - Updated:
     - Purrformancer
+- Footsteps for Mimics will now be like of normal players
 
 ## 1.1.5
 - Updated:
