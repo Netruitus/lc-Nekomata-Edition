@@ -4,6 +4,7 @@
     - Purrformancer
     - Touchscreen
     - LateCompany
+    - Coroner
 - Footsteps for Mimics will now be like of normal players
 
 ## 1.1.5
