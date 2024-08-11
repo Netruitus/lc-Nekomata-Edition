@@ -1,6 +1,6 @@
 ## 1.2.0
 - Fully compatible with v56
-- Updated:
+- Updated mods:
     - Purrformancer
     - Touchscreen
     - LateCompany
@@ -14,6 +14,7 @@
     - BuyableShotgunShells
     - MoreCompany
     - Mirage
+- Updated all libs
 - Removed Rich Presence for Discord
 - Footsteps for Mimics will now be like of normal players
 
