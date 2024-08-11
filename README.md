@@ -1,5 +1,7 @@
 # Lethal Company - Nekomata Edition
 
+## Compatible with v56
+
 Welcome to the Lethal Company - Nekomata Edition! ᓚᘏᗢ
 
 This modpack is a thoroughly curated collection of popular mods (over 70!), bundled together to introduce Quality of Life changes, balance the game, and present new challenges. Enjoy the enhanced gameplay experience!
@@ -48,7 +50,6 @@ Built on top of [Purrformancer](https://thunderstore.io/c/lethal-company/p/Netru
     - Some monsters can speak your friends' voices
     - There are some very convincing player mimicks around...
     - Some presents can be surprisingly deadly
-- And Discord Rich Presence support
 
 ## Updates
 

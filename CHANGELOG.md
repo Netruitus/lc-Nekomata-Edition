@@ -1,3 +1,25 @@
+## 2024.8.11
+- Fully compatible with v56
+- Change the versioning to date format
+- Updated mods:
+    - Purrformancer
+    - Touchscreen
+    - LateCompany
+    - Coroner
+    - LethalThings
+    - TooManyEmotes
+    - ReservedFlashlightSlot
+    - FasterItemDropship
+    - SuitSaver
+    - LETHALRESONANCE
+    - BuyableShotgunShells
+    - MoreCompany
+    - Mirage
+- Updated all libs
+- Added new libs
+- Removed Rich Presence for Discord
+- Footsteps for Mimics will now be like of normal players
+
 ## 1.1.5
 - Updated:
     - Purrformancer
