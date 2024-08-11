@@ -14,7 +14,6 @@
     - BuyableShotgunShells
     - MoreCompany
     - Mirage
-- Cleaned all APIs, libraries and other hard dependencies for mods
 - Removed Rich Presence for Discord
 - Footsteps for Mimics will now be like of normal players
 

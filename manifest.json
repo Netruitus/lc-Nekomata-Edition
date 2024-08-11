@@ -17,17 +17,22 @@
         "BatTeam-LethalFashion-1.0.7",
         "Blorb-WeatherMultipliers-1.1.0",
         "BlueAmulet-LCBetterClock-1.0.3",
+        "Bobbie-NAudio-2.2.2",
+        "Bobbie-UniTask-2.5.0",
         "ButteryStancakes-AccurateStaminaDisplay-2.1.3",
 
         "egeadam-MoreScreams-1.0.3",
         "EliteMasterEric-Coroner-2.0.0",
         "EliteMasterEric-WackyCosmetics-2.0.0",
+        "Evaisa-HookGenPatcher-0.0.5",
+        "Evaisa-LethalLib-0.16.0",
         "Evaisa-LethalThings-0.10.6",
 
         "fivetoofive-DetailedScan-1.2.2",
         "FlipMods-BetterStamina-1.3.2",
         "FlipMods-FasterItemDropship-1.3.0",
         "FlipMods-ReservedFlashlightSlot-2.0.6",
+        "FlipMods-ReservedItemSlotCore-2.0.30",
         "FlipMods-ReservedWalkieSlot-2.0.5",
         "FlipMods-TooManyEmotes-2.1.26",
 
@@ -38,6 +43,7 @@
         "kRYstall9-FastSwitchPlayerViewInRadar-1.3.2",
 
         "LethalResonance-LETHALRESONANCE-4.5.2",
+        "loaforc-loaforcsSoundAPI-1.1.4",
 
         "matsuura-HealthMetrics-1.0.2",
         "mattplays-HoarderBugUseItems-1.0.3",
@@ -45,16 +51,21 @@
         "Monkeytype-HideChat-1.0.0",
         "Midge-PushCompany-1.2.0",
 
+        "NotAtomicBomb-TerminalApi-1.5.4",
         "NotAtomicBomb-Terminal_History-1.0.5",
         "notnotnotswipez-MoreCompany-1.9.4",
 
         "Owen3H-IntroTweaks-1.5.0",
+        "Ozone-BepInUtils-1.2.1",
         "Ozone-Glow_Steps-1.1.2",
 
         "Pooble-LCBetterSaves-1.7.3",
 
         "quackandcheese-ToggleMute-1.3.1",
+        "qwbarch-BarchLib-1.0.2",
         "qwbarch-Mirage-1.8.1",
+
+        "Rune580-LethalCompany_InputUtils-0.7.7",
 
         "sunnobunno-BonkHitSFX-1.0.5",
         "sunnobunno-YippeeMod-1.2.4",
