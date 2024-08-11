@@ -1,3 +1,8 @@
+## 1.2.0
+- Fully compatible with v56
+- Updated:
+    - Purrformancer
+
 ## 1.1.5
 - Updated:
     - Purrformancer
