@@ -15,6 +15,7 @@
     - MoreCompany
     - Mirage
 - Updated all libs
+- Added new libs
 - Removed Rich Presence for Discord
 - Footsteps for Mimics will now be like of normal players
 
